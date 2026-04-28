@@ -5,13 +5,11 @@ Atualmente, estou decifrando ponteiros, gerenciando memória e explorando o univ
 
 ---
 
-Estatísticas
-
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviReder&layout=compact&theme=tokyonight&hide=html,css,javascript" alt="Minhas Linguagens"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviReder&layout=compact&theme=tokyonight" alt="Minhas Linguagens"/>
     </a>
 </div>
 
 ---
-*"C é como uma faca afiada: você pode criar uma obra de arte ou cortar o dedo fora. Eu ainda estou com todos os meus dedos (por enquanto)."* 😂
+*C é como uma faca afiada: você pode criar uma obra de arte ou cortar o dedo fora. Eu ainda estou com todos os meus dedos (por enquanto).* 😂
