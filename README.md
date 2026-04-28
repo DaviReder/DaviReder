@@ -1,6 +1,6 @@
 # Hey, I'm Davi Cabral! 👋
 
-Atualmente sou estudante na **PUC-MG**, mergulhando fundo no mundo do C e da computação de baixo nível. Sou apaixonado por entender o que acontece entre o código e o hardware. 💻
+Atualmente sou estudante na **PUC-MG**, mergulhando fundo no mundo do C e da computação de baixo nível. Sou apaixonado por entender o que acontece entre o código e o hardware.
 Atualmente, estou decifrando ponteiros, gerenciando memória e explorando o universo de Sockets e pthreads para construir sistemas robustos e eficientes. 💻
 
 ---
