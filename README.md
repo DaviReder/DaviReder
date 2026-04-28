@@ -1,4 +1,4 @@
-# Olá, eu sou o Davi Cabral! 👋
+# Hey, I'm Davi Cabral! 👋
 
 Atualmente sou estudante na **PUC-MG**, mergulhando fundo no mundo do C e da computação de baixo nível. Sou apaixonado por entender o que acontece entre o código e o hardware. 💻
 Atualmente, estou decifrando ponteiros, gerenciando memória e explorando o universo de Sockets e pthreads para construir sistemas robustos e eficientes. 💻
@@ -7,8 +7,7 @@ Atualmente, estou decifrando ponteiros, gerenciando memória e explorando o univ
 
 Estatísticas
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviReder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviReder&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
