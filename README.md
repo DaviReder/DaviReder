@@ -12,4 +12,4 @@ Atualmente, estou decifrando ponteiros, gerenciando memória e explorando o univ
 </div>
 
 ---
-*C é como uma faca afiada: você pode criar uma obra de arte ou cortar o dedo fora. Eu ainda estou com todos os meus dedos (por enquanto).* 😂
+*"A simplicidade é o grau máximo da sofisticação." — Leonardo da Vinci.*
