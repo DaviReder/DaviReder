@@ -6,9 +6,7 @@ Atualmente, estou decifrando ponteiros, gerenciando memória e explorando o univ
 ---
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviReder&layout=compact&theme=tokyonight&hide=html,css" alt="Minhas Linguagens"/>
-    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://kayan-github-profile-projects-featu.vercel.app/api/top-langs?username=DaviReder&layout=compact&theme=tokyonight&hide=html,css" alt="Minhas Linguagens"/></a>
 </div>
 
 ---
