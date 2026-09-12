@@ -19,8 +19,8 @@ Estudante de **Engenharia de Controle e Automação** na PUC Minas e autodidata 
 
 - ⚙️ **Assembly (MIPS)** — profundo domínio da máquina.
 - 🔵 **C/C++** — sistemas de baixo nível, memória, ponteiros, alto desempenho.
-- ☕ **Java** & **JavaScript** — mundo coporativo e sistemas distribuidos.
-- ☕ **JavaScript** — interfaces com usuário, requisições, acessos em rede.
+- ☕ **Java** & **C#** — mundo coporativo, sistemas distribuidos, jogos, gêmeos digitais...
+- 🌍 **JavaScript** — interfaces com usuário, requisições, acessos em rede.
 - 🐍 **Python** — automação, dados e os próximos passos em controle/ML.
 - 🤖 **Engenharia de Controle** com **Ciência da Computação** — teoria somada à prática.
 
