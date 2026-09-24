@@ -8,6 +8,10 @@ Estudante de **Engenharia de Controle e Automação** na PUC Minas e autodidata 
 
 | Projeto | Linguagem | Sobre |
 |---|---|---|
+| [**MPC (Model Predictive Control)**](https://github.com/DaviReder) | Python | Em fase de planejamento |
+| [**Dashboard de Telemetria**](https://github.com/DaviReder) | JavaScript | Em fase de planejamento |
+| [**Gêmeo Digital**](https://github.com/DaviReder) | C# | Em fase de planejamento |
+| [**Raft**](https://github.com/DaviReder) | Java | Em fase de planejamento |
 | [**RT-Scheduler**](https://github.com/DaviReder/RT-Scheduler) | C++ | Motor de decisão de escalonamento em tempo real — projeto carro-chefe atual |
 | [**SoftPLC**](https://github.com/DaviReder/softplc) | C | Simulador de PLC de baixo nível: AVL, bitwise e multithreading |
 | [**CPU Emulator**](https://github.com/DaviReder/cpu-emulator) | C | Emulador e disassembler MIPS32 com ciclo Fetch-Decode-Execute |
@@ -41,6 +45,7 @@ Estudante de **Engenharia de Controle e Automação** na PUC Minas e autodidata 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
