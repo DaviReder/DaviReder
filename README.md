@@ -1,4 +1,4 @@
-# Hi, I'm Davi Cabral 👋
+# Hi, I'm Davi Cabral 👋 
 
 Estudante de **Engenharia de Controle e Automação** na PUC Minas e autodidata em **Ciência da Computação** desde os 12 anos. Construindo uma base sólida e ambiciosa em múltiplas linguagens, com foco principal em **C/C++** e **Python**.
 
@@ -8,10 +8,10 @@ Estudante de **Engenharia de Controle e Automação** na PUC Minas e autodidata 
 
 | Projeto | Linguagem | Sobre |
 |---|---|---|
-| [**MPC (Model Predictive Control)**](https://github.com/DaviReder) | Python | Em fase de planejamento |
-| [**Dashboard de Telemetria**](https://github.com/DaviReder) | JavaScript | Em fase de planejamento |
-| [**Gêmeo Digital**](https://github.com/DaviReder) | C# | Em fase de planejamento |
-| [**Raft**](https://github.com/DaviReder) | Java | Em fase de planejamento |
+| **MPC (Model Predictive Control)** | Python | Em fase de planejamento |
+| **Dashboard de Telemetria** | JavaScript | Em fase de planejamento |
+| **Gêmeo Digital** | C# | Em execução |
+| **Raft** | Java | Em execução |
 | [**RT-Scheduler**](https://github.com/DaviReder/RT-Scheduler) | C++ | Motor de decisão de escalonamento em tempo real — projeto carro-chefe atual |
 | [**SoftPLC**](https://github.com/DaviReder/softplc) | C | Simulador de PLC de baixo nível: AVL, bitwise e multithreading |
 | [**CPU Emulator**](https://github.com/DaviReder/cpu-emulator) | C | Emulador e disassembler MIPS32 com ciclo Fetch-Decode-Execute |
@@ -21,16 +21,17 @@ Estudante de **Engenharia de Controle e Automação** na PUC Minas e autodidata 
 
 ### 🛠️ Stack Atual
 
-- ⚙️ **Assembly (MIPS)** — profundo domínio da máquina.
-- 🔵 **C/C++** — sistemas de baixo nível, memória, ponteiros, alto desempenho.
-- ☕ **Java** & **C#** — mundo coporativo, sistemas distribuidos, jogos, gêmeos digitais...
-- 🌍 **JavaScript** — interfaces com usuário, requisições, acessos em rede.
-- 🐍 **Python** — automação, dados e os próximos passos em controle/ML.
-- 🤖 **Engenharia de Controle** com **Ciência da Computação** — teoria somada à prática.
+- **Assembly** — profundo domínio da máquina.
+- **C/C++** — sistemas de baixo nível, memória, ponteiros, alto desempenho.
+- **Java** & **C#** — mundo coporativo, sistemas distribuidos, jogos, gêmeos digitais...
+- **JavaScript** — interfaces com usuário, requisições, acessos em rede.
+- **Python** — automação, dados e os próximos passos em controle/ML.
+- **Engenharia de Controle** com **Ciência da Computação** — teoria somada à prática.
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
+
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -46,11 +47,11 @@ Estudante de **Engenharia de Controle e Automação** na PUC Minas e autodidata 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 </div>
 
 ---
 
 <div align="center">
 <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+<img src="https://komarev.com/ghpvc/?username=DaviReder&label=V" width="0" height="0" alt="counter" style="display:none !important;">
 </div>
